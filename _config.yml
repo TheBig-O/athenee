@@ -2,9 +2,9 @@
 title: "Athénée"
 email: hello@mail.io
 description: ""
-url: "https://sunbliss.github.io"
-baseurl: "/athenee"
-flickr_username: ""
+url: "https://thebig-o.github.io/"
+baseurl: "/athenee-MFO"
+flickr_username: "m_olness"
 
 # Owner/author information
 owner:
@@ -14,11 +14,11 @@ owner:
 
 # Internal nav
 nav:
- gallery1: "baseurl/gallery1/"
- gallery2: "baseurl/gallery2/"
- gallery3: "baseurl/gallery3/"
- gallery4: "baseurl/gallery4/"
- gallery5: "baseurl/gallery5/"
+ Animals: "baseurl/gallery1/"
+ HDRs: "baseurl/gallery2/"
+ Landscapes: "baseurl/gallery3/"
+ Sunsets: "baseurl/gallery4/"
+ Buildings: "baseurl/gallery5/"
  about: "baseurl/about/"
 
 # Server
